@@ -5,4 +5,4 @@ Compares the substrings in the list. If there is a match, it will increase the e
 When the compare loop is done, it returns the enegram count.  
 
 # The Question  
-Link [HackerRank question link](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)  
+[HackerRank question link](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)  
