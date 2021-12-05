@@ -1,4 +1,4 @@
-	    public static List<string> substring_factory(string input)
+	public static List<string> substring_factory(string input)
         {
             List<string> sortedSubstringList = new List<string>();
             for (int i = 0; i < input.Length; i++)
